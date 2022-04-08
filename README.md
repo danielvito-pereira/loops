@@ -10,5 +10,14 @@
  - Sempre precisa de um valor "default"
  - Ideal para quando se precisa comparar muitos valores
 ----
-  ## For e whille
+  ## For e while
 - loop dentro de elementos iteráveis (arrays, strings).
+
+## while
+
+- executa instruções até que a condição se torte falsa.
+
+
+## do while
+
+- executa instruções até que a condição se torte falsa, porém a primeira execução sempre ocorre.
