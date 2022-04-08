@@ -9,7 +9,6 @@
  - Equivale a uma comparação de valores e valor (===)
  - Sempre precisa de um valor "default"
  - Ideal para quando se precisa comparar muitos valores
-
+----
   ## For e whille
 
-  
