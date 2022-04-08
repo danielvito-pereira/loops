@@ -11,4 +11,4 @@
  - Ideal para quando se precisa comparar muitos valores
 ----
   ## For e whille
-
+- loop dentro de elementos iteráveis (arrays, strings).
